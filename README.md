@@ -8,7 +8,7 @@ Hello! I'm Sreeja Puthan, a passionate learner and enthusiast in Python scriptin
 - **Tool Development**: Building tools that can help others in their daily tasks and projects.
 
 ## Get in Touch
-- **Email**: your-email@example.com
+- **Email**: sreejaputhan7@gmail.com
 - **LinkedIn**: Your LinkedIn Profile
 - **GitHub**: Your GitHub Profile
 
