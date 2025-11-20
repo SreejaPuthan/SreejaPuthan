@@ -10,7 +10,7 @@ Hello! I'm Sreeja Puthan, a passionate learner and enthusiast in Python scriptin
 ## Get in Touch
 - **Email**: sreejaputhan7@gmail.com
 - **LinkedIn**: Your LinkedIn Profile
-- **GitHub**: Your GitHub Profile
+- **GitHub**: https://github.com/SreejaPuthan
 
 Feel free to explore my repositories and connect with me. I'm always open to collaboration and learning from others in the community!
 
